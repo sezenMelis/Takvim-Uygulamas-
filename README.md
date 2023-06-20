@@ -15,6 +15,7 @@ pip install PyQt5
 
 pip install pyodbc
 
+.mp3 uzantılı müzik dosyaları kullanmayın .wav uzantısı kullanın.
 
 
 
