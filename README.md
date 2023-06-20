@@ -1,11 +1,6 @@
 # Takvim-Uygulaması
 
 Kullanmadan önce:
-pip install PyQt5
-pip install pyodbc
-
-
-
 
 
 
