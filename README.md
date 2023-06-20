@@ -12,6 +12,7 @@ Kullanmadan önce:
 Koddaki bütün host='Baturay' kısımlarını kendi  ms sql server name inize göre değiştiriniz.
 
 pip install PyQt5
+
 pip install pyodbc
 
 
